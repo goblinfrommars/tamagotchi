@@ -1,5 +1,4 @@
 # Final Project Algoritma Pemrograman 🏳
-<hr>
 
 ### Teams 🧑‍🤝‍🧑
 <table>
