@@ -1,5 +1,3 @@
-# Final Project Algoritma Pemrograman 🏳
-
 ### Teams 🧑‍🤝‍🧑
 <table>
  <tr>
@@ -22,6 +20,15 @@
   <td>21085610...</td>
  </tr>
 </table>
+
+# TAMAGOTCHI 🎮🥚
+<img width="40%" align="center" src="https://user-images.githubusercontent.com/50385762/172053822-65de8d53-5e11-4775-b184-2ec74a045ef1.png">
+<p>Tamagotchi adalah salah satu mainan terkeren yang digemari banyak anak tahun 90-an. Tidak cuma anak-anak, bahkan orang dewasa juga ikut demam peliharaan virtual ini. Tamagotchi berasal dari Bahasa Jepang yaitu <b>“Tamago”</b> yang berarti telur, dan “tch” dari Bahasa Inggris “watch” atau jam yang ditambahkan “i”. Cara bermain Tamagotchi seperti merawat hewan peliharaan pada umumnya. Tamagotchi harus dirawat, dengan diberi makan, dibersihkan kotorannya, dan diajak bermain.</p>
+
+
+### Program Structure 🍔 [On Progress]
+
+### Program Flowchart 🌵 [On Progress]
 
 ### Contributor's 👥
 <table>
