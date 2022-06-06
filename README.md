@@ -28,6 +28,13 @@
 
 ### Program Structure 🍔 [On Progress]
 
+```
+Tamagotchi
+├── Sources
+│   └── Main
+└── Headers
+```
+
 ### Program Flowchart 🌵 [On Progress]
 
 ### Contributor's 👥
