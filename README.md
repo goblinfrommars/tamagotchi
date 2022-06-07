@@ -23,6 +23,7 @@
 
 # TAMAGOTCHI 🎮🥚
 <img width="40%" align="center" src="https://user-images.githubusercontent.com/50385762/172053822-65de8d53-5e11-4775-b184-2ec74a045ef1.png">
+
 `Tamagotchi` adalah salah satu mainan terkeren yang digemari banyak anak tahun 90-an. Tidak cuma anak-anak, bahkan orang dewasa juga ikut demam peliharaan virtual ini. Tamagotchi berasal dari Bahasa Jepang yaitu `“Tamago”` yang berarti telur, dan `“tch”` dari Bahasa Inggris `“watch”` atau jam yang ditambahkan `“i”`. Cara bermain Tamagotchi seperti merawat hewan peliharaan pada umumnya. Tamagotchi harus dirawat, dengan diberi makan, dibersihkan kotorannya, dan diajak bermain.
 
 
