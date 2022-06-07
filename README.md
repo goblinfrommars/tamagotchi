@@ -1,4 +1,4 @@
-### Teams 🧑‍🤝‍🧑
+### Team 🧑‍🤝‍🧑
 <table>
  <tr>
   <td>Ni Putu Suci Paramitha</td>
