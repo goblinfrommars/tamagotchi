@@ -30,12 +30,19 @@
 
 ```
 Tamagotchi
+│
 ├── Sources
 │   └── Main
-└── Headers
+│
+├── Headers
+│   ├── stdio.h
+│   └── time.h
+│
+└── Asset
 ```
 
 ### Program Flowchart 🌵 [On Progress]
+
 
 ### Contributor's 👥
 <table>
