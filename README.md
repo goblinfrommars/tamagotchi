@@ -2,7 +2,7 @@
 <table>
  <tr>
   <td>Ni Putu Suci Paramitha</td>
-  <td>2108561...</td>
+  <td>2108561011</td>
  </tr>
 
  <tr>
