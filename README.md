@@ -12,7 +12,7 @@
 
  <tr>
   <td>Anugrah Ignatius Sitinjak</td>
-  <td>21085610...</td>
+  <td>2108561054</td>
  </tr>
 
  <tr>
